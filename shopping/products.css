@@ -161,7 +161,9 @@ main {
     box-shadow: 0 -1rem 0 var(--crl-white);
 }
 
-
+.boton-carrito {
+    margin-top: 2rem;
+}
 
 
 
