@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+
 body {
   font-family: 'Roboto', sans-serif;
-  background: #ECECEC;
+  background: #4b33a8;
 }
 /* login */
 
@@ -20,7 +21,7 @@ body {
     font-size: 16px;
 }
 
-/* small device */
+/* mobile */
 @media only screen and (max-width: 768px){
     .box-area{
         width: 0 10px;

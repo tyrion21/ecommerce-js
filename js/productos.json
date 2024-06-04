@@ -1,0 +1,122 @@
+[
+  {
+    "id": "guantes-1",
+    "titulo": "Guantes 1",
+    "imagen": "../images/guantes/guantes-1.jpg",
+    "categoria": {
+      "nombre": "Guantes",
+      "id": "guantes"
+    },
+    "precio": 27000
+  },
+  {
+    "id": "guantes-2",
+    "titulo": "Guantes 2",
+    "imagen": "../images/guantes/guantes-2.jpg",
+    "categoria": {
+      "nombre": "Guantes",
+      "id": "guantes"
+    },
+    "precio": 27000
+  },
+  {
+    "id": "guantes-3",
+    "titulo": "Guantes 3",
+    "imagen": "../images/guantes/guantes-3.jpg",
+    "categoria": {
+      "nombre": "Guantes",
+      "id": "guantes"
+    },
+    "precio": 69000
+  },
+  {
+    "id": "guantes-4",
+    "titulo": "Guantes 4",
+    "imagen": "../images/guantes/guantes-4.jpg",
+    "categoria": {
+      "nombre": "Guantes",
+      "id": "guantes"
+    },
+    "precio": 52200
+  },
+  {
+    "id": "sacos-1",
+    "titulo": "Sacos 1",
+    "imagen": "../images/sacos/sacos-1.jpg",
+    "categoria": {
+      "nombre": "Sacos",
+      "id": "sacos"
+    },
+    "precio": 88000
+  },
+  {
+    "id": "sacos-2",
+    "titulo": "Sacos 2",
+    "imagen": "../images/sacos/sacos-2.jpg",
+    "categoria": {
+      "nombre": "Sacos",
+      "id": "sacos"
+    },
+    "precio": 60000
+  },
+  {
+    "id": "sacos-3",
+    "titulo": "Sacos 3",
+    "imagen": "../images/sacos/sacos-3.jpg",
+    "categoria": {
+      "nombre": "Sacos",
+      "id": "sacos"
+    },
+    "precio": 110400
+  },
+  {
+    "id": "sacos-4",
+    "titulo": "Sacos 4",
+    "imagen": "../images/sacos/sacos-4.jpg",
+    "categoria": {
+      "nombre": "Sacos",
+      "id": "sacos"
+    },
+    "precio": 69000
+  },
+  {
+    "id": "ropa-1",
+    "titulo": "Ropa 1",
+    "imagen": "../images/ropa/ropa-1.jpg",
+    "categoria": {
+      "nombre": "Ropa",
+      "id": "ropa"
+    },
+    "precio": 7000
+  },
+  {
+    "id": "ropa-2",
+    "titulo": "Ropa 2",
+    "imagen": "../images/ropa/ropa-2.jpg",
+    "categoria": {
+      "nombre": "Ropa",
+      "id": "ropa"
+    },
+    "precio": 5000
+  },
+  {
+    "id": "ropa-3",
+    "titulo": "Ropa 3",
+    "imagen": "../images/ropa/ropa-3.jpg",
+    "categoria": {
+      "nombre": "Ropa",
+      "id": "ropa"
+    },
+    "precio": 102000
+  },
+  {
+    "id": "ropa-4",
+    "titulo": "Ropa 4",
+    "imagen": "../images/ropa/ropa-4.jpg",
+    "categoria": {
+      "nombre": "Ropa",
+      "id": "ropa"
+    },
+    "precio": 40000
+  }
+]
